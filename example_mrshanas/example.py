@@ -12,6 +12,4 @@ class Shanas:
 
         return number + 1
 
-shn = Shanas()
 
-print(shn.add_one(1))
